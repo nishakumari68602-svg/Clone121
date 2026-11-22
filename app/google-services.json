@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "638208111374",
+    "project_id": "gen-lang-client-0518882997",
+    "storage_bucket": "gen-lang-client-0518882997.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638208111374:android:c7eff0118cc526a8c11d5f",
+        "android_client_info": {
+          "package_name": "com.nisha.xclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638208111374-g5sko4rpdb44qj8edhtnvk63b1cpnuvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nisha.xclone",
+            "certificate_hash": "e7a78c5ca82a64471b9a7af1fb2afe89c3412b2f"
+          }
+        },
+        {
+          "client_id": "638208111374-lmb8uk7dtor69ljrq5hk3q1o2p2fvbg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nisha.xclone",
+            "certificate_hash": "4f0d651d06da66b88d578180f60f29dab265a21c"
+          }
+        },
+        {
+          "client_id": "638208111374-pi0cudoeuqc3p06hg0a2b400n0quabua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nisha.xclone",
+            "certificate_hash": "6f65af49663f42bcc2aec9ac0f6f00c5607f2725"
+          }
+        },
+        {
+          "client_id": "638208111374-2ifc1juaal2benuvetegg29vbinup6v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYkN3rw4N0R53uOwN6Sa4u7zDyj6PJ27U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638208111374-2ifc1juaal2benuvetegg29vbinup6v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
